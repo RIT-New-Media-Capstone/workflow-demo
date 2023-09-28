@@ -5,5 +5,4 @@ Jordan Reeves
 Philip Kalinowski
 Olivia Lewis
 Jailyn Talavera
-Jordan Reeves
 Felix Warner
