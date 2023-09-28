@@ -1,6 +1,7 @@
 ## Class Members
 Travis Stodter
-<<<<<<< HEAD
 Jacob Goodwillie
-=======
-
+Olivia Lewis
+Jailyn Talavera
+Jordan Reeves
+Philip Kalinowski
