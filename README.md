@@ -1,3 +1,3 @@
 ## Class Members
 Travis Stodter
-Philip Kalinowski
+Philip Kalinowski (student)
