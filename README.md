@@ -1,3 +1,4 @@
 ## Class Members
 Travis Stodter
-Philip Kalinowski (student)
+Jordan Reeves
+Philip Kalinowski
