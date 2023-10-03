@@ -6,5 +6,6 @@
 - Garbage plate
 - Beef stew
 - Fish Tacos (Kalinowski)
+- Fish
 - Cucumber
 - Chicken Tenders
