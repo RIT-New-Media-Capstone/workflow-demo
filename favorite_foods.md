@@ -7,3 +7,4 @@
 - Beef stew
 - sushi
 - Chicken Tenders
+- Bagels
