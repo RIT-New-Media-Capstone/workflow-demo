@@ -6,3 +6,5 @@
 - Garbage plate
 - Beef stew
 - Sausage & tortellini soup
+- sushi
+- Chicken Tenders
