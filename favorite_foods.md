@@ -4,3 +4,4 @@
 - Coffee
 - Oklahoma onion smash burger
 - Garbage plate
+- Beef stew
