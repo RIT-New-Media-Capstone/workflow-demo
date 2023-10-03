@@ -5,4 +5,4 @@
 - Oklahoma onion smash burger
 - Garbage plate
 - Beef stew
-- Filet Mignon
+- Chicken Tenders
