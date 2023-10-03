@@ -7,3 +7,4 @@
 - Beef stew
 - Cucumber
 - Chicken Tenders
+- Sushi
