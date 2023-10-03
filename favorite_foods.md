@@ -6,3 +6,6 @@
 - Garbage plate
 - Beef stew
 - Apple
+- Fish
+- Cucumber
+- Chicken Tenders
