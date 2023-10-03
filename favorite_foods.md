@@ -6,3 +6,4 @@
 - Garbage plate
 - Beef stew
 - Sushi
+- Chicken Tenders
