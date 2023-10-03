@@ -3,3 +3,4 @@
 - Pizza
 - Coffee
 - Oklahoma onion smash burger
+- Beef stew
