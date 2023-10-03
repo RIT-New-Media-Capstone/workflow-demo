@@ -7,4 +7,5 @@
 - Beef stew
 - Sausage & tortellini soup
 - sushi
+- Cucumber
 - Chicken Tenders
