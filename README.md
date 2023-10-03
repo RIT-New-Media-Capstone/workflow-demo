@@ -6,3 +6,4 @@ Jordan Reeves
 Philip Kalinowski
 Jailyn Talavera
 Jordan Reeves
+Hugo Serinese
