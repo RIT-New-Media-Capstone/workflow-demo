@@ -6,6 +6,7 @@
 - Garbage plate
 - Beef stew
 - corn dogs
+- Sushi
 - Fish
 - Cucumber
 - Chicken Tenders
