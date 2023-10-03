@@ -5,5 +5,5 @@
 - Oklahoma onion smash burger
 - Garbage plate
 - Beef stew
-- sushi
+- corn dogs
 - Chicken Tenders
