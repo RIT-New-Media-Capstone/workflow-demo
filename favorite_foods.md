@@ -5,5 +5,6 @@
 - Oklahoma onion smash burger
 - Garbage plate
 - Beef stew
+- Fish
 - Cucumber
 - Chicken Tenders
