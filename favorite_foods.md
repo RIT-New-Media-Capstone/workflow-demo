@@ -6,4 +6,5 @@
 - Garbage plate
 - Beef stew
 - Lobster
+- Cucumber
 - Chicken Tenders
