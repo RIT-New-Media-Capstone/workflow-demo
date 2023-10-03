@@ -7,4 +7,5 @@
 - Philip Kalinowski
 - Felix Warner
 - Hugo Serinese
+- Tarnav Bhasin
 - Raine Taber
