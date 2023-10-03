@@ -8,3 +8,4 @@
 - Fish
 - Cucumber
 - Chicken Tenders
+- Japanese curry chicken
