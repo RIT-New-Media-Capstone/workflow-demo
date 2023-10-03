@@ -1,9 +1,9 @@
 ## Class Members
-Travis Stodter
-Hugo Serinese
-Jacob Goodwillie
-Jordan Reeves
-Philip Kalinowski
-Jailyn Talavera
-Jordan Reeves
-Hugo Serinese
+- Travis Stodter
+- Jacob Goodwillie
+- Olivia Lewis
+- Jailyn Talavera
+- Jordan Reeves
+- Philip Kalinowski
+- Felix Warner
+- Hugo Serinese
